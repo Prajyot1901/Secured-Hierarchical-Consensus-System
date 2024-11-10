@@ -36,7 +36,7 @@ The *Secured-Hierarchical-Consensus-System* is a robust solution for conducting 
 ## Installation
 1. Clone the repository:
    bash
-   git clone https://github.com/your-repo/Secured-Hierarchical-Consensus-System.git
+   git clone https://github.com/Prajyot1901/Secured-Hierarchical-Consensus-System.git
 
 ### Install the GMP library:
 
